@@ -1,6 +1,3 @@
-#include <iostream>
+#include "DBWApp.h"
 
-int main() {
-    std::cout << "Hello, World!" << std::endl;
-    return 0;
-}
+IMPLEMENT_APP(DBWApp)
